@@ -1,0 +1,26 @@
+.logotipo{
+    width: 150px;
+    padding: 10px 0px;
+}
+
+.altura-a-b{
+    padding: 50px 0px;
+}
+
+.icon-redes{
+    width: 28px;
+    margin: 10px 0px; 
+}
+
+footer{
+    background-color: black;
+    padding: 100px;
+    text-align: center;
+}
+
+.logotipo-footer{
+    width: 200px;
+}
+
+
+

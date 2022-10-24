@@ -1,0 +1,59 @@
+.body{
+    background: #fff;
+}
+
+.logo-market{
+    width:60px;
+}
+
+.color{
+    background-color: #ffc107;
+}
+
+.navbar-nav{
+    --bs-nav-link-hover-color: white;
+    --bs-nav-link-color: none;
+}
+
+.btn-outline-success{
+    --bs-btn-color: dark;
+    --bs-btn-border-color: black;
+    --bs-btn-hover-border-color: dark;
+    --bs-btn-hover-bg: white;
+    --bs-btn-hover-color: dark;
+}
+
+.altura-a-b{
+    padding: 50px 0px;
+}
+
+.logo{
+    width: 100px;
+    margin: auto;
+}
+
+.imagen-venta{
+    width: 100px;
+}
+
+.imagen-articulo{
+    width: 150px;
+}
+
+.articulo-venta{
+    border: 2px solid black;
+}
+
+main{
+    background-color: #ebebeb;
+}
+
+.img-ulti{
+    width: 100px;
+}
+
+.img-hover:hover{
+    transition: 0.5s;
+    object-fit: cover;
+    border: 1px solid black;
+}
